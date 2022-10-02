@@ -35,7 +35,7 @@ contributorImage: 'your image url'
 
 
 
- ### Don't forget to start this repo :) 
+ ### Don't forget to star this repo :) 
 
 
 
