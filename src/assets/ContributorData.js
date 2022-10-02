@@ -8,6 +8,14 @@ export const contributorData = [
         contributorTwitter:'https://twitter.com/smk_codes',
         contributorImage: 'https://user-images.githubusercontent.com/36791174/193437869-5e36f67d-d29e-4f6c-8781-bd353e20111e.JPG'
     },
+    {
+        contributorName: 'FreemRL',
+        contributorLinkedIn:'https://www.linkedin.com/in/jannik-schmidtke-329926247/',
+        contributorGithub: 'https://github.com/FreemRL',
+        contributorIG: 'https://instagram.com/jannik27s',
+        contributorTwitter:'https://twitter.com/freem_RL',
+        contributorImage: 'https://avatars.githubusercontent.com/u/66525499?v=4'
+    },
     
 
    
