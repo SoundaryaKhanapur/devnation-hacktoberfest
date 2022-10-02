@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/devNation/static/css/main.a069daa1.css",
-    "main.js": "/devNation/static/js/main.9ce824a2.js",
-    "static/media/HacktoberfestIcon.jpg": "/devNation/static/media/HacktoberfestIcon.35a865e97c4fe5718672.jpg",
-    "index.html": "/devNation/index.html",
-    "main.a069daa1.css.map": "/devNation/static/css/main.a069daa1.css.map",
-    "main.9ce824a2.js.map": "/devNation/static/js/main.9ce824a2.js.map"
+    "main.css": "/DevNation/static/css/main.a069daa1.css",
+    "main.js": "/DevNation/static/js/main.cfb21274.js",
+    "static/media/HacktoberfestIcon.jpg": "/DevNation/static/media/HacktoberfestIcon.35a865e97c4fe5718672.jpg",
+    "index.html": "/DevNation/index.html",
+    "main.a069daa1.css.map": "/DevNation/static/css/main.a069daa1.css.map",
+    "main.cfb21274.js.map": "/DevNation/static/js/main.cfb21274.js.map"
   },
   "entrypoints": [
     "static/css/main.a069daa1.css",
-    "static/js/main.9ce824a2.js"
+    "static/js/main.cfb21274.js"
   ]
 }
