@@ -1,0 +1,71 @@
+.contributor-cards-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 44px;
+    align-self: center;
+    justify-content: center;
+}
+
+.contributor-card {
+    width: 500px;
+    min-height: 550px;
+    background: #fff;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.contributor-card:hover {
+    box-shadow: 0px 40px 50px rgba(0,0,0,0.4);
+    transition: all 0.3s;
+}
+
+.image-container {
+    width: 100%;
+    border-radius: 20px 20px 0 0 ;
+}
+
+.contributor-external-link {
+    border-radius: inherit;
+}
+
+.contributor-img {
+    display: block;
+    border-radius: inherit;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.contributor-details-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: flex-start;
+    padding: 20px ;
+}
+
+.check-it-out {
+    font-size: 20px;
+    font-weight: 600;
+    color: #3d5a80;
+    line-height: 28px;
+}
+
+.contributor-heading {
+    margin: 0;
+}
+
+
+@media only screen and (max-width: 640px) {
+    .contributor-cards-container {
+        padding: 20px;
+    }
+
+    .contributor-card{
+        width: 290px;
+        min-height: 500px;
+    }
+}
