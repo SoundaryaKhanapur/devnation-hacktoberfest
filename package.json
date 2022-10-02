@@ -2,7 +2,7 @@
   "name": "devnation-hacktoberfest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SoundaryaKhanapur.github.io/devNation",
+  "homepage": "https://SoundaryaKhanapur.github.io/DevNation",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
