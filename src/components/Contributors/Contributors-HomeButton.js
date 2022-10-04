@@ -1,4 +1,4 @@
-"use-strict"
+"use-strict" 
 // Initailly script has been disablled in the public index.html document so first we need to enable it as it is the initial structure.
 
 let creatButton = function() {
