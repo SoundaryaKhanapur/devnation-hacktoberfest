@@ -10,7 +10,7 @@ class Home extends Component {
         return (
             <div className="home-containe">
                 <div className="header-text">
-                    <h1>Welcome to Hacktoberfest2022!</h1>
+                    <h1>Welcome to Hacktoberfest 2022!</h1>
                     <p>“When we have welcoming communities of contributors, open source software gets better and more useful to everyone.” -- Limor Fried</p>
                 </div>
                 <div className="head-btns">
