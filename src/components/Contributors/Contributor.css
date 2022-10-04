@@ -57,7 +57,21 @@
 .contributor-heading {
     margin: 0;
 }
-
+.back-btn{
+    padding: 9px;
+    border-radius: 5px;
+    border: none;
+    background:white;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    cursor: pointer;
+    font-weight: 700;
+}
+.back-btn:hover{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 4px 10px 0px;
+}
+.link{
+    text-decoration:none;
+}
 
 @media only screen and (max-width: 640px) {
     .contributor-cards-container {

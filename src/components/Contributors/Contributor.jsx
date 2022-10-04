@@ -3,6 +3,7 @@ import './Contributor.css'
 import Header from '../Header/Header';
 import { contributorData } from './../../assets/ContributorData'
 import ContributorCard from './ContributorCard';
+import {Link} from 'react-router-dom';
 
 const Contributor = () => {
     return (
@@ -32,7 +33,11 @@ const Contributor = () => {
                 }
             </div>
 
-
+                <Link to='/' className='link'>
+                    <button className='back-btn'>
+                            Back to Home
+                    </button>
+                </Link>
 
         </div>
     );
