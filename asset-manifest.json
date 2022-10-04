@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/devnation-hacktoberfest/static/css/main.5497f223.css",
+    "main.css": "/devnation-hacktoberfest/static/css/main.5ee0933c.css",
     "main.js": "/devnation-hacktoberfest/static/js/main.bea0b279.js",
     "static/media/HacktoberfestIcon.jpg": "/devnation-hacktoberfest/static/media/HacktoberfestIcon.35a865e97c4fe5718672.jpg",
     "index.html": "/devnation-hacktoberfest/index.html",
-    "main.5497f223.css.map": "/devnation-hacktoberfest/static/css/main.5497f223.css.map",
+    "main.5ee0933c.css.map": "/devnation-hacktoberfest/static/css/main.5ee0933c.css.map",
     "main.bea0b279.js.map": "/devnation-hacktoberfest/static/js/main.bea0b279.js.map"
   },
   "entrypoints": [
-    "static/css/main.5497f223.css",
+    "static/css/main.5ee0933c.css",
     "static/js/main.bea0b279.js"
   ]
 }
