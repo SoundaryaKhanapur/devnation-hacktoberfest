@@ -70,7 +70,7 @@
 	box-shadow: 3px 3px 4px lightcoral;
 	font-weight: 700;
 	font-size: 1.1rem;
-	cursor: pointer;
+	cursor: pointer; 
 }
 
 @media only screen and (max-width: 640px) {
