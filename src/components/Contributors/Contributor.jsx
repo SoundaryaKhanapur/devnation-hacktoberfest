@@ -33,9 +33,11 @@ const Contributor = () => {
                 }
             </div>
 
-            <button className='back-btn'>
-                <Link to='/'>Back to Home</Link>
-            </button>
+                <Link to='/' className='link'>
+                    <button className='back-btn'>
+                            Back to Home
+                    </button>
+                </Link>
 
         </div>
     );

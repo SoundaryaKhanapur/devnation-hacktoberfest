@@ -64,15 +64,15 @@
     background:white;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     cursor: pointer;
+    font-weight: 700;
 }
 .back-btn:hover{
     box-shadow: rgba(99, 99, 99, 0.2) 0px 4px 10px 0px;
 }
-.back-btn>a{
+.link{
     text-decoration:none;
-    color: inherit;
-    font-weight: 700;
 }
+
 @media only screen and (max-width: 640px) {
     .contributor-cards-container {
         padding: 20px;
