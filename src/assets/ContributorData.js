@@ -27,7 +27,13 @@ export const contributorData = [
         contributorTwitter:'https://twitter.com/satyamrs00',
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
-    
-
+    {
+        contributorName: 'Tushar Kapoor',
+        contributorLinkedIn:'linkedin.com/in/tushar-kapoor-6a0876124',
+        contributorGithub: 'https://github.com/Kapoor-Tushar',
+        contributorIG: 'https://www.instagram.com/the_tusharKapoor/',
+        contributorTwitter:'https://twitter.com/TusharK43747465',
+        contributorImage: 'https://avatars.githubusercontent.com/u/82567111?v=4'
+},
    
 ];
