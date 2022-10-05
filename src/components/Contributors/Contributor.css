@@ -57,7 +57,21 @@
 .contributor-heading {
     margin: 0;
 }
-
+.btn{
+	color: #3d5a80;
+	background-color: #F0F0F0;
+	font-weight: 600;
+	padding: 0.5rem;
+	border-style: none;
+	border-radius: 0.8rem;
+	font-size: 1rem;
+}
+.btn:hover{
+	box-shadow: 3px 3px 4px lightcoral;
+	font-weight: 700;
+	font-size: 1.1rem;
+	cursor: pointer; 
+}
 
 @media only screen and (max-width: 640px) {
     .contributor-cards-container {
