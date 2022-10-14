@@ -28,6 +28,15 @@ export const contributorData = [
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
     
+{
+
+  contributorName: 'Kaveri Madiwal',
+  contributorLinkedIn:'https://www.linkedin.com/in/kaveri-madiwal-b67136229',
+  contributorGithub: 'https://github.com/Kaveri1811',
+  contributorIG: '',
+  contributorTwitter:'',
+  contributorImage: 'https://user-images.githubusercontent.com/98466187/195832776-d194ef19-d11f-4bfc-bd75-8a86ab211bc6.jpeg'
+},
 
    
 ];
