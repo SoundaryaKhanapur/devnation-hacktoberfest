@@ -27,6 +27,15 @@ export const contributorData = [
         contributorTwitter:'https://twitter.com/satyamrs00',
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
+{
+
+  contributorName: 'Rohit Shetty',
+  contributorLinkedIn:'https://www.linkedin.com/in/rohit-shetty-3606871b8',
+  contributorGithub: 'https://github.com/Rohit5a3',
+  contributorIG: 'https://www.instagram.com/_rohitshetty_/',
+  contributorTwitter:'https://twitter.com/Rs34Rohit',
+  contributorImage: 'https://user-images.githubusercontent.com/104223348/195832735-5ad472fd-0b88-4e32-9c87-1f2dead22a54.jpeg'
+},
     
 
    
