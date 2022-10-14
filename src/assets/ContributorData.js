@@ -27,6 +27,14 @@ export const contributorData = [
         contributorTwitter:'https://twitter.com/satyamrs00',
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
+{
+  contributorName: 'Chandrakant Kallannavar',
+        contributorLinkedIn:'https://www.linkedin.com',
+        contributorGithub: 'https://github.com/crkant',
+        contributorIG: 'https://instagram.com',
+        contributorTwitter:'https://twitter.com',
+        contributorImage: 'https://github.com/A-division-2021-22/Group11repo/raw/main/1652529966599.jpg'
+},
     
 
    
