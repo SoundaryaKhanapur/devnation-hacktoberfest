@@ -27,6 +27,16 @@ export const contributorData = [
         contributorTwitter:'https://twitter.com/satyamrs00',
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
+
+
+{
+  contributorName: 'Pratham Kadapatti',
+  contributorLinkedIn:'https://www.linkedin.com/in/pratham-kadapatti-682985227',
+  contributorGithub: 'https://github.com/PRATHAM-KADAPATTI',
+  contributorIG: 'https://www.instagram.com/prathamkadapatti/',
+  contributorTwitter:'',
+  contributorImage: 'https://user-images.githubusercontent.com/106789803/195834495-9dba2a45-08d7-460f-b1a2-405e4b168819.jpg'
+},
     
 
    
