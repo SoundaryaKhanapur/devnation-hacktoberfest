@@ -36,7 +36,7 @@ contributorImage: 'your image url'
 
 
  ### Don't forget to star this repo :) 
- ![IMG_20220903_113615](https://user-images.githubusercontent.com/106173137/195832526-1c03a128-73d8-4848-846f-e2f681ae53bd.jpg)
+ 
 
 
 
