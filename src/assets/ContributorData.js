@@ -27,15 +27,20 @@ export const contributorData = [
         contributorTwitter:'https://twitter.com/satyamrs00',
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
-
-{
-
   contributorName: 'Srushti Patil',
   contributorLinkedIn:'https://www.linkedin.com/in/srushti-patil-169424240/',
   contributorGithub: 'https://github.com/PSrushtii',
   contributorIG: '',
   contributorTwitter:'',
   contributorImage: ''
+
+  contributorName: 'Vaishnavi Patil',
+  contributorLinkedIn:'https://www.linkedin.com/in/vaishnavi-patil-73555a222',
+  contributorGithub: 'https://github.com/Vaishnavi021',
+  contributorIG: 'https://instagram.com/vaishnavii__21?igshid=NzNkNDdiOGI=',
+  contributorTwitter:'https://twitter.com/satyamrs00',
+  contributorImage: 'https://user-images.githubusercontent.com/101796448/195832282-3f96925a-70a1-45a8-b002-ab93e6697f15.jpeg'
+
 },
     
 
