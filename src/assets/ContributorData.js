@@ -27,6 +27,13 @@ export const contributorData = [
         contributorTwitter:'https://twitter.com/satyamrs00',
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
+  contributorName: 'Aparna Rangrej',
+        contributorLinkedIn:'https://www.linkedin.com/in/aparnarangrej-54653b247',
+        contributorGithub: 'https://github.com/AparnaRangrej',
+        contributorIG: '',
+        contributorTwitter:'',
+        contributorImage: 'https://user-images.githubusercontent.com/115786726/195834515-2a80b16a-ac18-4961-b970-dc2381676c57.png'
+},
     
 
    
