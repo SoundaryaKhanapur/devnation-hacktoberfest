@@ -28,6 +28,14 @@ export const contributorData = [
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
     
+{
 
+  contributorName: 'Harshit Kallimani',
+  contributorLinkedIn:'https://www.linkedin.com/in/harshitkallimani',
+  contributorGithub: 'https://github.com/Harshitsk7',
+  contributorIG: 'https://instagram.com/harshitkallimani',
+  contributorTwitter:'https://twitter.com/Harshitsk7',
+  contributorImage: 'https://user-images.githubusercontent.com/85124993/195834873-88a15226-1cb8-43b8-a25e-a6463a7fcd28.jpeg)'
+},''
    
 ];
