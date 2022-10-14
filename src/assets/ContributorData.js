@@ -32,10 +32,10 @@ export const contributorData = [
 
   contributorName: 'Prajwal Patil',
   contributorLinkedIn:'',
-  contributorGithub: 'https://github.com/https://github.com/prajwalpatilPp1',
+  contributorGithub: 'https://github.com/prajwalpatilPp1',
   contributorIG: 'https://instagram.com/p.r.a.j.w.a.l.p.a.t.i.l/',
   contributorTwitter:'',
-  contributorImage: 'https://avatars.githubusercontent.com/u/https:/u/38a04fbd-3960-494d-b026-6832429d346f.jpg'
+  contributorImage: 'https://user-images.githubusercontent.com/105495321/195834254-9c7bf2a3-88e9-4878-b768-4a3d2e3f9a97.jpg'
 },
     
 
