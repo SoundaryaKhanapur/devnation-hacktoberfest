@@ -28,6 +28,11 @@ export const contributorData = [
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
     
-
+contributorName: 'Namrata patil',
+        contributorLinkedIn:'',
+        contributorGithub: 'https://github.com/namrata245',
+        contributorIG: '',
+        contributorTwitter:'',
+        contributorImage: 'https://user-images.githubusercontent.com/115787855/195834637-c29cfa86-89e5-4b80-b597-0a3e0c23fb1e.jpg'
    
 ];
