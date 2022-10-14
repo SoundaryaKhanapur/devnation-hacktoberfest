@@ -28,6 +28,16 @@ export const contributorData = [
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
     
+  {
+
+    contributorName: 'Shreya Ankale',
+    contributorLinkedIn: 'https://www.linkedin.com/in/shreya-ankale',
+    contributorGithub: 'https://github.com/Shreya-Ankale',
+    contributorIG: 'https://instagram.com/shreya.ankale',
+    contributorTwitter: '',  
+    contributorImage: '(https://user-images.githubusercontent.com/106919768/195832600-7b902ec4-df1b-4ee8-b1c4-fb840eb8afa2.jpeg)'
+  },
+
 
    
 ];
