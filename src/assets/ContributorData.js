@@ -27,6 +27,7 @@ export const contributorData = [
         contributorTwitter:'https://twitter.com/satyamrs00',
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
+
 {
   contributorName: 'Abhinandan V V',
   contributorLinkedIn:'https://www.linkedin.com/in/abhinandan-v-v-125976228/',
@@ -35,6 +36,19 @@ export const contributorData = [
   contributorTwitter:'',
   contributorImage: 'https://onedrive.live.com/?cid=36366AEAE71C39E9&id=36366AEAE71C39E9%21120783&parId=36366AEAE71C39E9%21132&o=OneUp'
 },
+
+
+{
+
+  contributorName: 'Vaishnavi Patil',
+  contributorLinkedIn:'https://www.linkedin.com/in/vaishnavi-patil-73555a222',
+  contributorGithub: 'https://github.com/Vaishnavi021',
+  contributorIG: 'https://instagram.com/vaishnavii__21?igshid=NzNkNDdiOGI=',
+  contributorTwitter:'https://twitter.com/satyamrs00',
+  contributorImage: 'https://user-images.githubusercontent.com/101796448/195832282-3f96925a-70a1-45a8-b002-ab93e6697f15.jpeg'
+},
+    
+
 
    
 ];
