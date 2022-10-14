@@ -27,6 +27,15 @@ export const contributorData = [
         contributorTwitter:'https://twitter.com/satyamrs00',
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
+{
+
+  contributorName: 'vikram prajapath',
+  contributorLinkedIn:'https://www.linkedin.com/in/vikram-prajapath-29385a227',
+  contributorGithub: 'https://github.com/OdinMK12',
+  contributorIG: 'https://www.instagram.com/',
+  contributorTwitter:'',
+  contributorImage: '![WhatsApp Image 2022-10-14 at 16 46 19](https://user-images.githubusercontent.com/96242979/195834946-9c270f28-c6e7-4892-835d-47f91b592471.jpg)'
+},
     
 
    
