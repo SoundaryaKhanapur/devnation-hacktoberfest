@@ -27,6 +27,14 @@ export const contributorData = [
         contributorTwitter:'https://twitter.com/satyamrs00',
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
+      {
+        contributorName: 'Mahaveer Janagouda',
+        contributorLinkedIn:'https://www.linkedin.com/in/mahaveer-janagouda-554b7120b/',
+        contributorGithub: 'https://github.com/mjanagouda',
+        contributorIG: 'https://www.instagram.com/mahaveer_janagouda/',
+        contributorTwitter:'https://twitter.com/MahaveerJanago2',
+        contributorImage: '![IMG_20210410_210628_721](https://user-images.githubusercontent.com/101690459/195833962-38bed40c-596e-4e3b-bea3-9ddfe7a77b76.jpg)'
+},
     
 
    
