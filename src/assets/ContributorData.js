@@ -20,12 +20,12 @@ export const contributorData = [
     
        {
 
-        contributorName: 'Satyam Sagar',
-        contributorLinkedIn:'https://www.linkedin.com/in/satyamrs00/',
-        contributorGithub: 'https://github.com/satyamrs00',
-        contributorIG: 'https://instagram.com/satyamrs00',
-        contributorTwitter:'https://twitter.com/satyamrs00',
-        contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
+        contributorName: 'Ayesha',
+        contributorLinkedIn:'https://www.linkedin.com/in/ayesha-m-432698227/',
+        contributorGithub: 'https://github.com/AyeshaMulla369',
+        contributorIG: '',
+        contributorTwitter:'',
+        contributorImage: 'https://user-images.githubusercontent.com/96511827/195833349-2b5b356c-3b55-4363-8654-995074dff28f.JPG'
 },
 
 {
