@@ -27,6 +27,16 @@ export const contributorData = [
         contributorTwitter:'https://twitter.com/satyamrs00',
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
+
+{
+
+  contributorName: 'Prajwal Patil',
+  contributorLinkedIn:'',
+  contributorGithub: 'https://github.com/https://github.com/prajwalpatilPp1',
+  contributorIG: 'https://instagram.com/p.r.a.j.w.a.l.p.a.t.i.l/',
+  contributorTwitter:'',
+  contributorImage: 'https://avatars.githubusercontent.com/u/https:/u/38a04fbd-3960-494d-b026-6832429d346f.jpg'
+},
     
 
    
