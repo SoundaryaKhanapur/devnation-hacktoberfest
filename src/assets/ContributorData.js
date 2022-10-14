@@ -17,15 +17,26 @@ export const contributorData = [
         contributorImage: 'https://avatars.githubusercontent.com/u/66525499?v=4'
 
     },
+
+    {
+
+      contributorName: 'Satyam Sagar',
+      contributorLinkedIn:'https://www.linkedin.com/in/satyamrs00/',
+      contributorGithub: 'https://github.com/satyamrs00',
+      contributorIG: 'https://instagram.com/satyamrs00',
+      contributorTwitter:'https://twitter.com/satyamrs00',
+      contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
+},
+  
     
        {
 
-        contributorName: 'Satyam Sagar',
-        contributorLinkedIn:'https://www.linkedin.com/in/satyamrs00/',
-        contributorGithub: 'https://github.com/satyamrs00',
-        contributorIG: 'https://instagram.com/satyamrs00',
-        contributorTwitter:'https://twitter.com/satyamrs00',
-        contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
+        contributorName: 'chandsab engineer',
+        contributorLinkedIn:'',
+        contributorGithub: 'https://github.com/chandengineer',
+        contributorIG: 'https://www.instagram.com/chand_engineer/',
+        contributorTwitter:'',
+        contributorImage: 'https://user-images.githubusercontent.com/105493137/195833135-9ebbffa1-356c-410d-9c91-a8b1e4a6ba3e.jpeg'
 },
     
 
