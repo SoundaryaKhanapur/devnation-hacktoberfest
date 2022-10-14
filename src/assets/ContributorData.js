@@ -27,6 +27,16 @@ export const contributorData = [
         contributorTwitter:'https://twitter.com/satyamrs00',
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
+
+{
+
+  contributorName: 'Rupa Somaling',
+  contributorLinkedIn:'https://www.linkedin.com/in/rupa-somaling-a074a3214/',
+  contributorGithub: 'https://github.com/RupaSomaling',
+  contributorIG: 'https://www.instagram.com/rupa_0_70/?next=%2F',
+  contributorTwitter:'',
+  contributorImage: 'https://user-images.githubusercontent.com/91045708/195832956-83fc3c5f-0b4d-48bd-b3b0-e76077908749.jpg'
+},
     
 
    
