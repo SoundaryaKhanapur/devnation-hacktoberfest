@@ -28,6 +28,14 @@ export const contributorData = [
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
     
+{
 
+  contributorName: 'Sneha Akkatangerhal',
+  contributorLinkedIn:'https://www.linkedin.com/in/sneha-akkatangerhal-b61474201/',
+  contributorGithub: 'https://github.com/SnehaAA02',
+  contributorIG: '',
+  contributorTwitter:' https://twitter.com/Sneha_a02?t=DSbD404_9fYJhh3lPzFhnw&s=08',
+  contributorImage: 'https://user-images.githubusercontent.com/96662637/195832864-729cc2a2-3dc5-4d07-9994-f68b15d47196.jpeg'
+},
    
 ];
