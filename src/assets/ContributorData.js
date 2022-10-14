@@ -39,5 +39,15 @@ export const contributorData = [
 },
     
 
-   
+   {
+
+        contributorName: 'yash kangralkar',
+        contributorLinkedIn:'',
+        contributorGithub: 'https://github.com/Yash2510111',
+        contributorIG: '',
+        contributorTwitter:'',
+        contributorImage: 'https://user-images.githubusercontent.com/107943206/195832584-29014d7a-0bfd-4084-a72e-85a58942823e.jpg'
+},
+    
+
 ];
