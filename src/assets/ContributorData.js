@@ -53,6 +53,16 @@ export const contributorData = [
 
 
 {
+  contributorName: 'Abhinandan V V',
+  contributorLinkedIn:'https://www.linkedin.com/in/abhinandan-v-v-125976228/',
+  contributorGithub: 'https://github.com/abhinandanvattaki',
+  contributorIG: 'https://www.instagram.com/abhinandanvattaki/',
+  contributorTwitter:'',
+  contributorImage: 'https://onedrive.live.com/?cid=36366AEAE71C39E9&id=36366AEAE71C39E9%21120783&parId=36366AEAE71C39E9%21132&o=OneUp'
+},
+
+
+{
 
   contributorName: 'Vaishnavi Patil',
   contributorLinkedIn:'https://www.linkedin.com/in/vaishnavi-patil-73555a222',
@@ -71,6 +81,7 @@ export const contributorData = [
   contributorTwitter:'',
   contributorImage: 'https://user-images.githubusercontent.com/106789803/195834495-9dba2a45-08d7-460f-b1a2-405e4b168819.jpg'
   },
+
 
    
    
