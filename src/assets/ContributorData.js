@@ -124,6 +124,16 @@ export const contributorData = [
   contributorTwitter:'',
   contributorImage: 'https://user-images.githubusercontent.com/91045708/195832956-83fc3c5f-0b4d-48bd-b3b0-e76077908749.jpg'
 },
+{
+
+  contributorName: 'Namrata Wadekar',
+  contributorLinkedIn:'https://www.linkedin.com/in/namrata-wadekar-797741228/',
+  contributorGithub: 'https://github.com/namratawadekar42',
+  contributorIG: 'https://www.instagram.com/namrata_wadekar/',
+  contributorTwitter:'',
+  contributorImage: 'https://user-images.githubusercontent.com/101054924/195835010-b5ab2f40-50d1-4437-8afc-6492f0528acd.jpeg'
+
+},
     
 
   contributorName: 'Rohit Shetty',
