@@ -41,6 +41,17 @@ export const contributorData = [
     
   
 
+      {
+
+  contributorName: 'Amaan Rajgoli',
+  contributorLinkedIn:'https://www.linkedin.com/in/amaan-rajgoli-439869253/',
+  contributorGithub: 'https://github.com/amaan-rajgoli',
+  contributorIG: 'https://instagram.com/amaan_rajgoli',
+  contributorTwitter:'https://twitter.com/amaan_rajgoli',
+  contributorImage: 'https://user-images.githubusercontent.com/106171459/195832480-75955c6d-8eba-4f62-bd4d-dc4ffb1bcca0.jpeg'
+    },
+
+
 {
 
   contributorName: 'Vaishnavi Patil',
@@ -100,6 +111,7 @@ export const contributorData = [
         contributorTwitter:'https://twitter.com/MahaveerJanago2',
         contributorImage: '![IMG_20210410_210628_721](https://user-images.githubusercontent.com/101690459/195833962-38bed40c-596e-4e3b-bea3-9ddfe7a77b76.jpg)'
 },
+
     
 
 
