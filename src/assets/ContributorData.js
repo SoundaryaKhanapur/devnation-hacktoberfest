@@ -116,6 +116,16 @@ export const contributorData = [
 
 {
 
+
+  contributorName: 'Rupa Somaling',
+  contributorLinkedIn:'https://www.linkedin.com/in/rupa-somaling-a074a3214/',
+  contributorGithub: 'https://github.com/RupaSomaling',
+  contributorIG: 'https://www.instagram.com/rupa_0_70/?next=%2F',
+  contributorTwitter:'',
+  contributorImage: 'https://user-images.githubusercontent.com/91045708/195832956-83fc3c5f-0b4d-48bd-b3b0-e76077908749.jpg'
+},
+    
+
   contributorName: 'Rohit Shetty',
   contributorLinkedIn:'https://www.linkedin.com/in/rohit-shetty-3606871b8',
   contributorGithub: 'https://github.com/Rohit5a3',
@@ -198,9 +208,6 @@ export const contributorData = [
   contributorTwitter:'https://twitter.com/Harshitsk7',
   contributorImage: 'https://user-images.githubusercontent.com/85124993/195834873-88a15226-1cb8-43b8-a25e-a6463a7fcd28.jpeg)'
 },
-
-
-
 
 
 
