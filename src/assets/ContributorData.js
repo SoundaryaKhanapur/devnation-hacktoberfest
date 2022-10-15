@@ -110,6 +110,15 @@ export const contributorData = [
 },
 {
 
+        contributorName: 'Tanmay M Bapannavar',
+        contributorLinkedIn: 'https://www.linkedin.com/in/tanmay-bapannavar-b621b0223/'
+        contributorGithub: 'https://github.com/tanmaymb',
+        contributorIG: 'https://www.instagram.com/tanmaymb7/',
+        contributorTwitter:'https://twitter.com/bapannavar?t=nGwCNWnEjPyfcM5HBRxnKw&s=09',
+        contributorImage:'(https://user-images.githubusercontent.com/115786676/195834749-0827e071-2046-4392-9229-582b06bc08fb.jpeg)'
+}
+
+
 
   contributorName: 'Chaitra Gunaga',
   contributorLinkedIn:'https://www.linkedin.com/in/chaitra-mg-b97637227',
@@ -305,7 +314,6 @@ export const contributorData = [
   contributorTwitter:'https://twitter.com/Harshitsk7',
   contributorImage: 'https://user-images.githubusercontent.com/85124993/195834873-88a15226-1cb8-43b8-a25e-a6463a7fcd28.jpeg)'
 },
-
 
 
 
