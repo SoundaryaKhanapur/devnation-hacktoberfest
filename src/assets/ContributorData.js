@@ -27,6 +27,19 @@ export const contributorData = [
         contributorTwitter:'https://twitter.com/satyamrs00',
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
+
+
+{
+
+  contributorName: 'Priyanka More',
+  contributorLinkedIn:'https://www.linkedin.com/in/priyanka-more-a79b13228/',
+  contributorGithub: 'https://github.com/PriyankaLaxmanMore',
+  contributorIG: 'https://www.instagram.com/priyankamore710/',
+  contributorTwitter:'',
+  contributorImage: 'https://user-images.githubusercontent.com/106911772/195833192-121510a7-e4cc-4cc0-8174-e9d8132291cc.jpeg'
+},
+
+
     
 
    
