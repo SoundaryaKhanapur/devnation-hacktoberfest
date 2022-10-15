@@ -157,6 +157,18 @@ export const contributorData = [
        contributorTwitter:' ',
        contributorImage: 'https://user-images.githubusercontent.com/115787171/195832539-b6d9e583-d55f-45a3-9659-05490cee0f91.jpeg'
 },
+
+
+{
+
+  contributorName: 'Prajwal Patil',
+  contributorLinkedIn:'',
+  contributorGithub: 'https://github.com/prajwalpatilPp1',
+  contributorIG: 'https://instagram.com/p.r.a.j.w.a.l.p.a.t.i.l/',
+  contributorTwitter:'',
+  contributorImage: 'https://user-images.githubusercontent.com/105495321/195834254-9c7bf2a3-88e9-4878-b768-4a3d2e3f9a97.jpg'
+},
+
   {
 
     contributorName: 'Prateesh Sulikeri',
@@ -186,6 +198,7 @@ export const contributorData = [
   contributorTwitter:'https://twitter.com/Harshitsk7',
   contributorImage: 'https://user-images.githubusercontent.com/85124993/195834873-88a15226-1cb8-43b8-a25e-a6463a7fcd28.jpeg)'
 },
+
 
 
 
