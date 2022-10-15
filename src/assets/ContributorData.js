@@ -110,6 +110,16 @@ export const contributorData = [
 },
 {
 
+
+  contributorName: 'Chaitra Gunaga',
+  contributorLinkedIn:'https://www.linkedin.com/in/chaitra-mg-b97637227',
+  contributorGithub: 'https://github.com/MGChaitra',
+  contributorIG: 'https://instagram.com/mg_chaitra?igshid=YmMyMTA2M2Y=',
+  contributorTwitter:'',
+  contributorImage: 'https://user-images.githubusercontent.com/96525089/195832793-ea48b6c8-0b1e-453d-86ef-13e316ac2f61.jpeg'
+},
+    {
+
         contributorName: 'chandsab engineer',
         contributorLinkedIn:'',
         contributorGithub: 'https://github.com/chandengineer',
@@ -295,6 +305,7 @@ export const contributorData = [
   contributorTwitter:'https://twitter.com/Harshitsk7',
   contributorImage: 'https://user-images.githubusercontent.com/85124993/195834873-88a15226-1cb8-43b8-a25e-a6463a7fcd28.jpeg)'
 },
+
 
 
 
