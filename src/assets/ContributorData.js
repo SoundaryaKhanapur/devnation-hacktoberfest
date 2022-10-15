@@ -61,16 +61,7 @@ export const contributorData = [
   contributorImage: 'https://user-images.githubusercontent.com/106789803/195834495-9dba2a45-08d7-460f-b1a2-405e4b168819.jpg'
   },
 
-    
-{
-
-  contributorName: 'Harshit Kallimani',
-  contributorLinkedIn:'https://www.linkedin.com/in/harshitkallimani',
-  contributorGithub: 'https://github.com/Harshitsk7',
-  contributorIG: 'https://instagram.com/harshitkallimani',
-  contributorTwitter:'https://twitter.com/Harshitsk7',
-  contributorImage: 'https://user-images.githubusercontent.com/85124993/195834873-88a15226-1cb8-43b8-a25e-a6463a7fcd28.jpeg)'
-},''
+   
    
 
 {
@@ -113,6 +104,25 @@ export const contributorData = [
     contributorTwitter: '',
     contributorImage: 'https://user-images.githubusercontent.com/106986640/195834523-f8be89f3-a659-4c38-96f9-fa6d440004b2.jpg'
   },
+  
+  {
+
+  contributorName: 'Rameez R Sanadi',
+  contributorLinkedIn:'https://www.linkedin.com/in/rameez-r-sanadi-217487214',
+  contributorGithub: 'https://github.com/rameezsanadi225',
+  contributorIG: 'https://www.instagram.com/dream_hunter_rameez/',
+  contributorTwitter:'https://twitter.com/RameezSanadi1',
+  contributorImage: 'https://user-images.githubusercontent.com/86250423/195832603-c1834ef9-e71b-496e-a5ff-2a7c7158a077.jpg'
+},
+
+  contributorName: 'Harshit Kallimani',
+  contributorLinkedIn:'https://www.linkedin.com/in/harshitkallimani',
+  contributorGithub: 'https://github.com/Harshitsk7',
+  contributorIG: 'https://instagram.com/harshitkallimani',
+  contributorTwitter:'https://twitter.com/Harshitsk7',
+  contributorImage: 'https://user-images.githubusercontent.com/85124993/195834873-88a15226-1cb8-43b8-a25e-a6463a7fcd28.jpeg)'
+},
+
 
 
 
