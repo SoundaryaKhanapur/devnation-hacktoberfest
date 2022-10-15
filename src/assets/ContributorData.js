@@ -123,7 +123,16 @@ export const contributorData = [
         contributorImage: '![IMG_20210410_210628_721](https://user-images.githubusercontent.com/101690459/195833962-38bed40c-596e-4e3b-bea3-9ddfe7a77b76.jpg)'
 },
 
-    
+
+{
+  contributorName: 'Sharath Heralagi',
+  contributorLinkedIn:'www.linkedin.com/in/sharat-heralagi-83a9b0220',
+  contributorGithub: 'https://github.com/Sharatheralagi007',
+  contributorIG: 'https://www.instagram.com/sharatheralagi/',
+  contributorTwitter:'',
+  contributorImage: 'https://user-images.githubusercontent.com/106471249/195834284-b52d8afc-446a-4cc1-9c23-3fd7c99199c2.jpg'
+},
+
 
 
 
@@ -166,7 +175,6 @@ export const contributorData = [
   contributorTwitter:'https://twitter.com/Harshitsk7',
   contributorImage: 'https://user-images.githubusercontent.com/85124993/195834873-88a15226-1cb8-43b8-a25e-a6463a7fcd28.jpeg)'
 },
-
 
 
 
