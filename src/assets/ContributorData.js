@@ -157,6 +157,8 @@ export const contributorData = [
   contributorImage: 'https://user-images.githubusercontent.com/86250423/195832603-c1834ef9-e71b-496e-a5ff-2a7c7158a077.jpg'
 },
 
+{
+
   contributorName: 'Harshit Kallimani',
   contributorLinkedIn:'https://www.linkedin.com/in/harshitkallimani',
   contributorGithub: 'https://github.com/Harshitsk7',
