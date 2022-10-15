@@ -182,7 +182,17 @@ export const contributorData = [
 }, 
 
 
-    
+ 
+  {
+
+    contributorName: 'Shreya Ankale',
+    contributorLinkedIn: 'https://www.linkedin.com/in/shreya-ankale',
+    contributorGithub: 'https://github.com/Shreya-Ankale',
+    contributorIG: 'https://instagram.com/shreya.ankale',
+    contributorTwitter: '',  
+    contributorImage: '(https://user-images.githubusercontent.com/106919768/195832600-7b902ec4-df1b-4ee8-b1c4-fb840eb8afa2.jpeg)'
+  },
+
 {
 
 
@@ -285,6 +295,7 @@ export const contributorData = [
   contributorTwitter:'https://twitter.com/Harshitsk7',
   contributorImage: 'https://user-images.githubusercontent.com/85124993/195834873-88a15226-1cb8-43b8-a25e-a6463a7fcd28.jpeg)'
 },
+
 
 
 
