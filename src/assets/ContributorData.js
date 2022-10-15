@@ -134,6 +134,17 @@ export const contributorData = [
   contributorImage: 'https://user-images.githubusercontent.com/101054924/195835010-b5ab2f40-50d1-4437-8afc-6492f0528acd.jpeg'
 
 },
+
+{
+
+  contributorName: 'pragati khombare',
+  contributorLinkedIn:'https://www.linkedin.com/in/pragati-khombare-097390229',
+  contributorGithub: 'https://github.com/khombarepragati',
+  contributorIG: '',
+  contributorTwitter:'',
+  contributorImage: 'https://user-images.githubusercontent.com/115786951/195833289-4ac34b1f-c56e-4545-8c10-754d640507e6.jpeg)'
+}, 
+
     
 {
 
@@ -228,6 +239,7 @@ export const contributorData = [
   contributorTwitter:'https://twitter.com/Harshitsk7',
   contributorImage: 'https://user-images.githubusercontent.com/85124993/195834873-88a15226-1cb8-43b8-a25e-a6463a7fcd28.jpeg)'
 },
+
 
 
 
