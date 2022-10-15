@@ -39,6 +39,7 @@ export const contributorData = [
   contributorImage: 'https://user-images.githubusercontent.com/101796448/195832282-3f96925a-70a1-45a8-b002-ab93e6697f15.jpeg'
 
 },
+
 {
   contributorName: 'Pratham Kadapatti',
   contributorLinkedIn:'https://www.linkedin.com/in/pratham-kadapatti-682985227',
@@ -49,6 +50,19 @@ export const contributorData = [
   },
 
     
+
+   
+
+{
+  contributorName: 'Chandrakant Kallannavar',
+        contributorLinkedIn:'https://www.linkedin.com',
+        contributorGithub: 'https://github.com/crkant',
+        contributorIG: 'https://instagram.com',
+        contributorTwitter:'https://twitter.com',
+        contributorImage: 'https://github.com/A-division-2021-22/Group11repo/raw/main/1652529966599.jpg'
+
+},
+
 
    
 ];
