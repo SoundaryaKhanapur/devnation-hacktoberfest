@@ -28,6 +28,7 @@ export const contributorData = [
       contributorTwitter:'https://twitter.com/satyamrs00',
       contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
+
 {
   contributorName:'Rishab Hudlikar',
   contributorLinkedIn:'https://www.linkedin.com/in/rishab-hudlikar-2a4873227/',
@@ -98,13 +99,23 @@ export const contributorData = [
 
        {
 
+
+        contributorName: 'chandsab engineer',
+        contributorLinkedIn:'',
+        contributorGithub: 'https://github.com/chandengineer',
+        contributorIG: 'https://www.instagram.com/chand_engineer/',
+        contributorTwitter:'',
+        contributorImage: 'https://user-images.githubusercontent.com/105493137/195833135-9ebbffa1-356c-410d-9c91-a8b1e4a6ba3e.jpeg'
+},
+{
         contributorName: 'Shilpapat',
         contributorLinkedIn:'https://www.linkedin.com/in/shilpa-patil-5931a5227/',
         contributorGithub: 'https://github.com/Shilpapat',
         contributorIG: 'https://www.instagram.com/shilpapatil464/',
         contributorTwitter:'',
         contributorImage: 'https://user-images.githubusercontent.com/96511819/195833085-6c20afa4-de90-4b1e-9feb-060c944fb976.png',
-
+},
+{
         contributorName: 'Sakshi Hebbale',
         contributorLinkedIn:'https://www.linkedin.com/in/sakshi-hebbale-05bb9b212/',
         contributorGithub: 'https://github.com/SakshiHebbale',
@@ -145,6 +156,7 @@ export const contributorData = [
   contributorIG: 'https://www.instagram.com/priyankamore710/',
   contributorTwitter:'',
   contributorImage: 'https://user-images.githubusercontent.com/106911772/195833192-121510a7-e4cc-4cc0-8174-e9d8132291cc.jpeg'
+
 },
 
 
