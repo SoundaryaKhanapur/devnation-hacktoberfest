@@ -30,7 +30,7 @@ export const contributorData = [
 },
 {
   contributorName:'Rishab Hudlikar',
-  contributorLinkedIn:'https://www.linkedin.com/in/rishab-hudlikar-2a4873227/'
+  contributorLinkedIn:'https://www.linkedin.com/in/rishab-hudlikar-2a4873227/',
   contributorGithub: 'https://github.com/Rishabvh/',
   contributorIG: 'https://instagram.com/rishab_hudlikar/',
   contributorTwitter:'https://twitter.com/RishabH19823998/',
