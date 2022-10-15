@@ -111,12 +111,12 @@ export const contributorData = [
 {
 
         contributorName: 'Tanmay M Bapannavar',
-        contributorLinkedIn: 'https://www.linkedin.com/in/tanmay-bapannavar-b621b0223/'
+        contributorLinkedIn: 'https://www.linkedin.com/in/tanmay-bapannavar-b621b0223/',
         contributorGithub: 'https://github.com/tanmaymb',
         contributorIG: 'https://www.instagram.com/tanmaymb7/',
         contributorTwitter:'https://twitter.com/bapannavar?t=nGwCNWnEjPyfcM5HBRxnKw&s=09',
         contributorImage:'(https://user-images.githubusercontent.com/115786676/195834749-0827e071-2046-4392-9229-582b06bc08fb.jpeg)'
-}
+}, {
 
 
 
@@ -222,7 +222,7 @@ export const contributorData = [
   contributorTwitter:'',
   contributorImage: 'https://user-images.githubusercontent.com/98466187/195832776-d194ef19-d11f-4bfc-bd75-8a86ab211bc6.jpeg'
 },
-
+{
   contributorName: 'Huda Shaikh',
   contributorLinkedIn:'https://www.linkedin.com/in/huda-shaikh-58aa58227/',
   contributorGithub: 'https://github.com/huda-shaikh07',
@@ -231,7 +231,7 @@ export const contributorData = [
   contributorImage: 'https://user-images.githubusercontent.com/106929009/195833472-855fff40-1630-4d20-9393-fed36ff67738.jpg'
 
 },
-
+{
   contributorName: 'Rohit Shetty',
   contributorLinkedIn:'https://www.linkedin.com/in/rohit-shetty-3606871b8',
   contributorGithub: 'https://github.com/Rohit5a3',
@@ -259,10 +259,6 @@ export const contributorData = [
   contributorTwitter:'',
   contributorImage: 'https://user-images.githubusercontent.com/106471249/195834284-b52d8afc-446a-4cc1-9c23-3fd7c99199c2.jpg'
 },
-
-
-
-
      
        {
 
