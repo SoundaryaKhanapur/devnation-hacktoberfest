@@ -17,15 +17,25 @@ export const contributorData = [
         contributorImage: 'https://avatars.githubusercontent.com/u/66525499?v=4'
 
     },
+
+    {
+
+      contributorName: 'Satyam Sagar',
+      contributorLinkedIn:'https://www.linkedin.com/in/satyamrs00/',
+      contributorGithub: 'https://github.com/satyamrs00',
+      contributorIG: 'https://instagram.com/satyamrs00',
+      contributorTwitter:'https://twitter.com/satyamrs00',
+      contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
+},
     
        {
 
-        contributorName: 'Satyam Sagar',
-        contributorLinkedIn:'https://www.linkedin.com/in/satyamrs00/',
-        contributorGithub: 'https://github.com/satyamrs00',
-        contributorIG: 'https://instagram.com/satyamrs00',
-        contributorTwitter:'https://twitter.com/satyamrs00',
-        contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
+        contributorName: 'Sakshi Hebbale',
+        contributorLinkedIn:'https://www.linkedin.com/in/sakshi-hebbale-05bb9b212/',
+        contributorGithub: 'https://github.com/SakshiHebbale',
+        contributorIG: 'https://instagram.com/sakshi_hebbale',
+        contributorTwitter:'',
+        contributorImage: 'https://user-images.githubusercontent.com/106175326/195832487-6d865fb4-e872-4003-b2e4-3dc139e3ea52.JPG'
 },
 
 
