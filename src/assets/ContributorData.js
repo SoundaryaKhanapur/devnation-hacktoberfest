@@ -76,12 +76,20 @@ export const contributorData = [
 
        {
 
+        contributorName: 'Shilpapat',
+        contributorLinkedIn:'https://www.linkedin.com/in/shilpa-patil-5931a5227/',
+        contributorGithub: 'https://github.com/Shilpapat',
+        contributorIG: 'https://www.instagram.com/shilpapatil464/',
+        contributorTwitter:'',
+        contributorImage: 'https://user-images.githubusercontent.com/96511819/195833085-6c20afa4-de90-4b1e-9feb-060c944fb976.png',
+
         contributorName: 'Sakshi Hebbale',
         contributorLinkedIn:'https://www.linkedin.com/in/sakshi-hebbale-05bb9b212/',
         contributorGithub: 'https://github.com/SakshiHebbale',
         contributorIG: 'https://instagram.com/sakshi_hebbale',
         contributorTwitter:'',
         contributorImage: 'https://user-images.githubusercontent.com/106175326/195832487-6d865fb4-e872-4003-b2e4-3dc139e3ea52.JPG'
+
 },
 
 
