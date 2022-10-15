@@ -30,13 +30,24 @@ export const contributorData = [
 
 
 {
+
+  contributorName: 'Vaishnavi Patil',
+  contributorLinkedIn:'https://www.linkedin.com/in/vaishnavi-patil-73555a222',
+  contributorGithub: 'https://github.com/Vaishnavi021',
+  contributorIG: 'https://instagram.com/vaishnavii__21?igshid=NzNkNDdiOGI=',
+  contributorTwitter:'https://twitter.com/satyamrs00',
+  contributorImage: 'https://user-images.githubusercontent.com/101796448/195832282-3f96925a-70a1-45a8-b002-ab93e6697f15.jpeg'
+
+},
+{
   contributorName: 'Pratham Kadapatti',
   contributorLinkedIn:'https://www.linkedin.com/in/pratham-kadapatti-682985227',
   contributorGithub: 'https://github.com/PRATHAM-KADAPATTI',
   contributorIG: 'https://www.instagram.com/prathamkadapatti/',
   contributorTwitter:'',
   contributorImage: 'https://user-images.githubusercontent.com/106789803/195834495-9dba2a45-08d7-460f-b1a2-405e4b168819.jpg'
-},
+  },
+
     
 
    
