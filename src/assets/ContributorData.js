@@ -114,6 +114,17 @@ export const contributorData = [
 
 },
 
+{
+
+  contributorName: 'Rohit Shetty',
+  contributorLinkedIn:'https://www.linkedin.com/in/rohit-shetty-3606871b8',
+  contributorGithub: 'https://github.com/Rohit5a3',
+  contributorIG: 'https://www.instagram.com/_rohitshetty_/',
+  contributorTwitter:'https://twitter.com/Rs34Rohit',
+  contributorImage: 'https://user-images.githubusercontent.com/104223348/195832735-5ad472fd-0b88-4e32-9c87-1f2dead22a54.jpeg'
+},
+
+
       {
         contributorName: 'Mahaveer Janagouda',
         contributorLinkedIn:'https://www.linkedin.com/in/mahaveer-janagouda-554b7120b/',
@@ -175,6 +186,7 @@ export const contributorData = [
   contributorTwitter:'https://twitter.com/Harshitsk7',
   contributorImage: 'https://user-images.githubusercontent.com/85124993/195834873-88a15226-1cb8-43b8-a25e-a6463a7fcd28.jpeg)'
 },
+
 
 
 
