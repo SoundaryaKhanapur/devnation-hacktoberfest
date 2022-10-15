@@ -100,6 +100,16 @@ export const contributorData = [
        {
 
 
+        contributorName: 'Omkar Anvekar',
+        contributorLinkedIn:'',
+        contributorGithub: 'https://github.com/OmkarAnvekar123',
+        contributorIG: 'https://www.instagram.com/omkar_anvekar1/',
+        contributorTwitter:'',
+        contributorImage: 'https://user-images.githubusercontent.com/105493141/195834285-0914770a-412d-4515-9d74-cde48b311fe8.jpg'
+        
+},
+{
+
         contributorName: 'chandsab engineer',
         contributorLinkedIn:'',
         contributorGithub: 'https://github.com/chandengineer',
@@ -122,6 +132,7 @@ export const contributorData = [
         contributorIG: 'https://instagram.com/sakshi_hebbale',
         contributorTwitter:'',
         contributorImage: 'https://user-images.githubusercontent.com/106175326/195832487-6d865fb4-e872-4003-b2e4-3dc139e3ea52.JPG'
+
 
 },
 
