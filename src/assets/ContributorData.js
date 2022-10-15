@@ -28,16 +28,7 @@ export const contributorData = [
       contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
     
-       {
-
-        contributorName: 'Sakshi Hebbale',
-        contributorLinkedIn:'https://www.linkedin.com/in/sakshi-hebbale-05bb9b212/',
-        contributorGithub: 'https://github.com/SakshiHebbale',
-        contributorIG: 'https://instagram.com/sakshi_hebbale',
-        contributorTwitter:'',
-        contributorImage: 'https://user-images.githubusercontent.com/106175326/195832487-6d865fb4-e872-4003-b2e4-3dc139e3ea52.JPG'
-},
-
+  
 
 {
 
@@ -80,6 +71,30 @@ export const contributorData = [
         contributorImage: 'https://github.com/A-division-2021-22/Group11repo/raw/main/1652529966599.jpg'
 
 },
+
+       {
+
+        contributorName: 'Sakshi Hebbale',
+        contributorLinkedIn:'https://www.linkedin.com/in/sakshi-hebbale-05bb9b212/',
+        contributorGithub: 'https://github.com/SakshiHebbale',
+        contributorIG: 'https://instagram.com/sakshi_hebbale',
+        contributorTwitter:'',
+        contributorImage: 'https://user-images.githubusercontent.com/106175326/195832487-6d865fb4-e872-4003-b2e4-3dc139e3ea52.JPG'
+},
+
+
+     
+       {
+
+       contributorName: 'Sakshi Gunda',
+       contributorLinkedIn:' ',
+       contributorGithub: 'https://github.com/SakshiGunda',
+       contributorIG: ' ',
+       contributorTwitter:' ',
+       contributorImage: 'https://user-images.githubusercontent.com/115787171/195832539-b6d9e583-d55f-45a3-9659-05490cee0f91.jpeg'
+},
+
+
 
 
    
