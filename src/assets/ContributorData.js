@@ -27,6 +27,19 @@ export const contributorData = [
         contributorTwitter:'https://twitter.com/satyamrs00',
         contributorImage: 'https://avatars.githubusercontent.com/u/96380323'
 },
+
+{
+
+  contributorName: 'Vaishnavi Patil',
+  contributorLinkedIn:'https://www.linkedin.com/in/vaishnavi-patil-73555a222',
+  contributorGithub: 'https://github.com/Vaishnavi021',
+  contributorIG: 'https://instagram.com/vaishnavii__21?igshid=NzNkNDdiOGI=',
+  contributorTwitter:'https://twitter.com/satyamrs00',
+  contributorImage: 'https://user-images.githubusercontent.com/101796448/195832282-3f96925a-70a1-45a8-b002-ab93e6697f15.jpeg'
+
+},
+   
+
 {
   contributorName: 'Chandrakant Kallannavar',
         contributorLinkedIn:'https://www.linkedin.com',
@@ -34,8 +47,9 @@ export const contributorData = [
         contributorIG: 'https://instagram.com',
         contributorTwitter:'https://twitter.com',
         contributorImage: 'https://github.com/A-division-2021-22/Group11repo/raw/main/1652529966599.jpg'
+
 },
-    
+ 
 
    
 ];
