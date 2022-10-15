@@ -1,5 +1,6 @@
 
 export const contributorData = [
+
     {
         contributorName: 'Soundarya',
         contributorLinkedIn:'https://www.linkedin.com/in/soundarya-khanapur/',
@@ -103,9 +104,18 @@ export const contributorData = [
        contributorTwitter:' ',
        contributorImage: 'https://user-images.githubusercontent.com/115787171/195832539-b6d9e583-d55f-45a3-9659-05490cee0f91.jpeg'
 },
+  {
 
+    contributorName: 'Prateesh Sulikeri',
+    contributorLinkedIn: 'https://www.linkedin.com/in/prateesh-sulikeri-380986227',
+    contributorGithub: 'https://github.com/Prateesh-Sulikeri',
+    contributorIG: 'https://www.instagram.com/prateesh07/?next=%2F',
+    contributorTwitter: '',
+    contributorImage: 'https://user-images.githubusercontent.com/106986640/195834523-f8be89f3-a659-4c38-96f9-fa6d440004b2.jpg'
+  },
 
 
 
    
+
 ];
