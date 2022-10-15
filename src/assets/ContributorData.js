@@ -135,6 +135,16 @@ export const contributorData = [
 
 },
     
+{
+
+  contributorName: 'Huda Shaikh',
+  contributorLinkedIn:'https://www.linkedin.com/in/huda-shaikh-58aa58227/',
+  contributorGithub: 'https://github.com/huda-shaikh07',
+  contributorIG: 'https://www.instagram.com/huda_shaikh0711/',
+  contributorTwitter:'',
+  contributorImage: 'https://user-images.githubusercontent.com/106929009/195833472-855fff40-1630-4d20-9393-fed36ff67738.jpg'
+
+},
 
   contributorName: 'Rohit Shetty',
   contributorLinkedIn:'https://www.linkedin.com/in/rohit-shetty-3606871b8',
